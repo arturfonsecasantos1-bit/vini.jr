@@ -1,0 +1,61 @@
+﻿<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+<meta charset="UTF-8">
+<title>Gol de Vinícius Júnior</title>
+<style>
+.container{
+    display:flex;
+    gap:20px;
+    max-width:900px;
+    margin:auto;
+    font-family:Arial,sans-serif;
+}
+
+
+.texto{
+    width:50%;
+    text-align:justify;
+    font-weight:bold;
+}
+
+
+.imagem{
+    width:50%;
+}
+
+
+.imagem img{
+    width:100%;
+}
+
+
+.amarelo{color:gold;}
+.vermelho{color:red;}
+.verde{color:green;}
+.azul{color:blue;}
+</style>
+</head>
+<body>
+
+
+<div class="container">
+    <div class="texto">
+        O gol de <span class="amarelo">Vinícius Júnior</span> contra a seleção de
+        <span class="vermelho">Marrocos</span> foi um momento decisivo da partida.
+        Com uma jogada de velocidade, habilidade e precisão, o
+        <span class="verde">atacante brasileiro</span> marcou um belo gol que mudou
+        o rumo do jogo e deu mais confiança à equipe. Além de empolgar a torcida,
+        o lance reforçou a importância de
+        <span class="azul">Vini Jr.</span> como uma das principais referências da seleção.
+    </div>
+
+
+    <div class="imagem">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Vinicius_Junior_2022.jpg/640px-Vinicius_Junior_2022.jpg" alt="Vinicius Junior">
+    </div>
+</div>
+
+
+</body>
+</html>
